@@ -391,7 +391,7 @@ a.tag > span {
 .grid-image {
   background: url(assets/images/sample1.png);
   width: 100%;
-  height: calc(width * 1);
+  /*height: calc(width * 1);*/
   border-radius: 11px 11px 0px 0px;
   padding: 8px;
 }
